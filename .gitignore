@@ -41,3 +41,25 @@ example
 # generated native folders
 /ios
 /android
+
+# Backups locais
+backup-local/
+
+# Dependencias e builds
+node_modules/
+.expo/
+dist/
+web-build/
+
+# Credenciais
+.env
+.env.*
+!.env.example
+
+# Arquivos locais e chaves
+*.log
+*.keystore
+*.jks
+*.pem
+*.p12
+android/local.properties

@@ -136,7 +136,7 @@ ventrya-mobile/
 
 ```powershell
 git clone https://github.com/marina-2907/Ventrya-Mobile.git
-cd Ventrya-Mobile
+cd ventrya-Mobile
 npm ci
 ```
 
@@ -189,15 +189,33 @@ A configuração do backend requer credenciais Oracle e segredo JWT válidos, fo
 - **Currículo original:** o candidato pode selecionar, guardar e abrir seu PDF/DOC/DOCX localmente. **O arquivo ainda não é enviado ao servidor nem disponibilizado para recrutadores em outras contas.** Isso exigiria armazenamento persistente, endpoint de upload e autorização adequada no backend.
 - **Arena:** os melhores resultados são armazenados localmente; a utilização desses dados por contratantes é uma possibilidade de evolução futura, não uma integração já concluída.
 - **Ventrya IA:** depende do serviço configurado e acessível no ambiente de execução.
-- **API .NET:** é um módulo complementar da Global Solution, em repositório próprio; não deve ser confundido com a API Java usada pelo Mobile.
 
 ## 8. Repositórios relacionados
 
 - **Ventrya Mobile:** https://github.com/marina-2907/Ventrya-Mobile
-- **Ventrya .NET:** https://github.com/marina-2907/Ventrya-DotNet
-- **Ventrya Java:** adicionar o link após a publicação do repositório Java.
 
-## 9. Equipe de desenvolvimento
+
+## 9. Vídeo de apresentação
+
+### Demonstração do Ventrya — Global Solution 2026/2
+
+O vídeo apresenta a proposta do Ventrya, sua arquitetura
+e as principais funcionalidades do aplicativo.
+
+São demonstrados o cadastro e login, painel inicial,
+personalização do avatar, currículo profissional,
+desafios práticos, candidaturas, avaliações,
+Arena Ventrya e recursos de inteligência artificial.
+
+Também são apresentadas as tecnologias utilizadas
+no desenvolvimento do projeto.
+
+**Assista à apresentação completa:**
+
+[▶️ Ventrya — Global Solution FIAP 2026](https://youtu.be/yam3ESry7f8?si=l8Kxsn_ltfPxc6Ey)
+
+
+## 10. Equipe de desenvolvimento
 
 **Mesmos integrantes da Sprint 4 do Challenge ClyvoCare OS — FIAP 2026:**
 

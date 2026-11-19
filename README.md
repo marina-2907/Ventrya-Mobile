@@ -140,8 +140,6 @@ cd ventrya-Mobile
 npm ci
 ```
 
-> Antes de executar, confira em `src/services/api.ts` a configuração de endereço da API adequada ao ambiente. Não publique senhas, tokens ou segredos no código-fonte.
-
 ### Executar o aplicativo
 
 ```powershell
